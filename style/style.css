@@ -1,0 +1,25 @@
+*,*:before, *:after {
+	box-sizing: border-box;
+}
+li {
+	list-style: none;
+}
+
+body {
+margin: 0;
+background-color: #F4F6F5;
+}
+
+.container {
+	width: 1110px;
+	margin: 0 auto;
+}
+
+.header {
+	height: 100px;
+	background-color: #E1EDE6;
+}
+
+.header_icon_title {
+	color: #598D66;
+}
